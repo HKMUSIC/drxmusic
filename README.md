@@ -90,6 +90,12 @@ You can deploy this React frontend directly to Vercel by clicking the button bel
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Hkmusic/bstation)
 
+### Deploy Backend on Heroku
+
+You can deploy your backend to Heroku using the button below:
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hkmusic/drxanime)
+
 > **Note:** This will deploy **frontend only**. Backend (FastAPI/Node) should be deployed separately (Render/Railway/Heroku), and then update the frontend `.env` with your backend URL.
 > 
 ### Notes
